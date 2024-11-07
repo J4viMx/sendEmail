@@ -48,3 +48,11 @@ Desarrollado por **Javier Juarez**.
 
 ## Estado del Proyecto
 El proyecto está completado y no se encuentra en desarrollo activo.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/720fde74-dd31-4072-bf68-21585c7fa706)
+![image](https://github.com/user-attachments/assets/dbcbfdde-d56b-40ad-a170-3a63f8bbe6f7)
+![image](https://github.com/user-attachments/assets/02f6b678-7c08-47a4-a7b1-ddda3ce93cc0)
+
+
+
