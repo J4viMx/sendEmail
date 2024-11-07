@@ -13,7 +13,7 @@ const sendEmail = async () => {
     const response = await resend.emails.send({
       from: "Template <javi@javimx.com>",
       to: [`${process.env.EMAIL}`],
-      subject: "Template - Javier Juárez",
+      subject: "Test FE Developer - Template - Javier Juárez",
       html: template,
     });
 
