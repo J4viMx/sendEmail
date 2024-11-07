@@ -11,7 +11,7 @@ const sendEmail = async () => {
     const template = fs.readFileSync(templatePath, "utf-8");
 
     const response = await resend.emails.send({
-      from: "Test <javi@javimx.com>",
+      from: "Template <javi@javimx.com>",
       to: [`${process.env.EMAIL}`],
       subject: "Template - Javier Juárez",
       html: template,
